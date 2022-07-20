@@ -1,0 +1,24 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  padding-top: .625rem;
+  background-color: #ebebec;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.jsbm__logo__contenedor {
+  width: 100%;
+  height: 3.125rem;
+  margin: .5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jsbm__logo {
+  height: 7.5rem;
+}
